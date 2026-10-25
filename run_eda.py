@@ -150,8 +150,6 @@ for p in axes[1].patches:
 
 plt.tight_layout()
 fig.savefig(os.path.join(REPORTS_DIR, "03_genre_and_subgenre_intelligence.png"), dpi=200)
-# Also overwrite the old top tags file so any references resolve cleanly
-fig.savefig(os.path.join(REPORTS_DIR, "03_top_steam_tags.png"), dpi=200)
 plt.close(fig)
 
 # -------------------------------------------------------------
