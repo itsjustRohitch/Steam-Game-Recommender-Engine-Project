@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.2%2B-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas&logoColor=white)
-![License](https://img.shields.io/badge/License-Unlicensed-lightgrey)
 ![GitHub stars](https://img.shields.io/github/stars/itsjustRohitch/Steam-Game-Recommender-Engine-Project?style=flat-square&logo=github)
 
 </div>
@@ -350,6 +349,4 @@ The final result is a recommendation engine that feels more like a modern discov
 
 ## 📌 License
 
-This repository currently has no explicit OSS license file. If you intend to publish or redistribute this project formally, add a license before shipping to production.
-
-If you want, I can also generate a polished `LICENSE` file and a matching MIT badge setup for this repository next.
+Developed as an academic project for educational and research purposes.
