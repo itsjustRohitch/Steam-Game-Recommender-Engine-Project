@@ -1,0 +1,17 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large raw dataset files (>100MB exceeds GitHub limits)
+data/fronkon_games.parquet
+data/steam-200k.csv
+
+# Keep preprocessed artifacts or download on startup
+# data/preprocessed_catalog.parquet (41MB - fits on GitHub)
